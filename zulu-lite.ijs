@@ -8,5 +8,3 @@ load 	zp,'zuv'	NB. conversion verbs (unpatched)
 load	zp,'zuvco'	NB. patch for conversion verbs
 load	zp,'zuany'	NB. additional "generic" a2* verbs
 load	zp,'zu4'	NB. *4* aliases
-
-smoutput '+++ zulu-lite --loaded.'
