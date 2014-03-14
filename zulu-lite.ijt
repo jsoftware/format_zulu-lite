@@ -1,4 +1,5 @@
 LABTITLE=: 'Strings conversion: converter verbs only'
+LABDEPENDS=: 'format/zulu-lite'
 
 NB. =========================================================
 Lab Section INTRO
