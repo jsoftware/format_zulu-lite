@@ -2,7 +2,7 @@ NB. zulu-lite manifest
 
 CAPTION=: 'Strings conversion package: LITE version'
 
-VERSION=: '0.0.6'
+VERSION=: '0.0.7'
 
 FILES=: 0 : 0
 manifest.ijs
@@ -27,4 +27,4 @@ RELEASE=: 'j602 j701 j801 j802'
 
 LABCATEGORY=: 'Format'
 
-PLATFORMS=: 'win linux darwin android'
+PLATFORMS=: ''
