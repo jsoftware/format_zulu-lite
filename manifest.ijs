@@ -23,7 +23,9 @@ DEPENDS=: 0 : 0
 format/zulu
 )
 
-RELEASE=: 'j602 j701 j801 j802 j803 j804 j805 j806 j807'
+RELEASE=: ''
+
+FOLDER=: 'format/zulu-lite'
 
 LABCATEGORY=: 'Format'
 
